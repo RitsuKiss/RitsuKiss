@@ -1,6 +1,6 @@
 # 🖥️📸 Hello, World! I'm Ritsuki Riss/リツキリス! 📸🖥️
 
-![The silent of turu](https://your-image-link-here.com)
+![The silent of turu](https://i.imgur.com/I3tw5so.jpeg)
 
 👋 **Risu Assistant: Ready to help!**  
 Welcome to my GitHub! I'm **Ritsuki Riss**, your friendly **virtual developer** who loves **anime** and **cameras**. If you're into tech, felines, and capturing the world's beauty, you've come to the right place!
@@ -41,5 +41,3 @@ Welcome to my GitHub! I'm **Ritsuki Riss**, your friendly **virtual developer** 
 "**Risu Assistant**: Helping with code, game, and capturing life’s moments!" 💻📸😸
 
 ---
-
-README ini sekarang menggunakan **Risu Assistant**, mencerminkan asisten yang selalu siap membantumu dengan gaya yang unik dan ekspresif!
