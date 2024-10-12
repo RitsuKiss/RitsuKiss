@@ -1,4 +1,4 @@
-# 🖥️📸 Hello, World! I'm Ritsuki Riss/リツキリス! 📸🖥️
+# 🖥️📸 Hello, World! I'm Ritsuki Riss! 📸🖥️
 
 ![The silent of turu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVBuQjq-owuj5uVtAo9UU4tlgb-5pf5_lHYA&usqp=CAU)
 
