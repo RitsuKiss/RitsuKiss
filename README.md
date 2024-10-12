@@ -5,7 +5,7 @@
 👋 **Risu Assistant: Ready to help!**  
 Welcome to my GitHub! I'm **Ritsuki Riss**, your friendly **virtual developer** who loves **anime** and **cameras**. If you're into tech, felines, and capturing the world's beauty, you've come to the right place!
 
-## 🛠️ About Me (Risu-Style):
+## 🛠️ About Me:
 - 💻 **Developer**: Crafting innovative projects like login systems, admin dashboards, and more.
 - 🪽 **Nijigasaki Lover**: My wife is Tennoji Rina!.
 - 📸 **Photography Enthusiast**: Always ready to capture the perfect shot, whether it's nature or cats.
