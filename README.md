@@ -3,13 +3,13 @@
 ![The silent of turu](https://your-image-link-here.com)
 
 👋 **Risu Assistant: Ready to help!**  
-Welcome to my GitHub! I'm **Ritsuki Riss**, your friendly **developer** who loves **cats** and **cameras**. If you're into tech, felines, and capturing the world's beauty, you've come to the right place!
+Welcome to my GitHub! I'm **Ritsuki Riss**, your friendly **virtual developer** who loves **anime** and **cameras**. If you're into tech, felines, and capturing the world's beauty, you've come to the right place!
 
 ## 🛠️ About Me (Risu-Style):
 - 💻 **Developer**: Crafting innovative projects like login systems, admin dashboards, and more.
-- 😸 **Cat Lover**: My fluffy friends love hanging around while I work!
+- 🪽 **Nijigasaki Lover**: My wife is Tennoji Rina!.
 - 📸 **Photography Enthusiast**: Always ready to capture the perfect shot, whether it's nature or cats.
-- 🎮 **Gamer**: Playing **Wuthering Waves** and collecting cute characters while my cats chill nearby.
+- 🎮 **Gamer**: Playing **Wuthering Waves** and collecting cute characters while my wife cooking.
 - 📟 **Quiet but expressive**, using code and photography to communicate, just like how Risu Assistant does!
 
 ## 🖥️ Current Projects:
