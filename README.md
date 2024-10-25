@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm **Ritsuki Riss**, your friendly **virtual developer** 
 
 ## 💬 Connect With Me:
 - 🌐 Instagram: [@ritsu.kiss](https://www.instagram.com/ritsu.kiss)
-- 🖥️ Discord: [Riss⁠✿[RTH]](#8833)
+- 🖥️ Discord: [Riss⁠✿[RTH]](https://discord.gg/pWQQhMae)
 - 📝 Let’s chat about **coding, anime, and cameras**—feel free to reach out anytime!
 
 ---
