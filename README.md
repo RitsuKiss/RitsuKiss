@@ -29,7 +29,7 @@
 ---
 
 ## 📌 Projects & Contributions
-🔹 **Login System with PHP & SQL**  
+🔹 **Todolist aplication**  
 🔹 **Admin Dashboard for Product Management**  
 🔹 **30 Days Front-End Challenge** *(Ongoing)*
 
