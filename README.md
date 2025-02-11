@@ -1,7 +1,7 @@
 <h1 align="center">✨ 𝑅𝑖𝑡𝑠𝑢𝑘𝑖 𝑅𝑖𝑠u ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/RitsukiRiss/RitsukiRiss/assets/profile-banner.gif" width="800">
+  <img src="https://github.com/RitsuKiss/RitsukiRiss/assets/profile-banner.gif" width="800">
 </p>
 
 <p align="center">
@@ -31,31 +31,30 @@
 ## 📌 Projects & Contributions
 🔹 **Login System with PHP & SQL**  
 🔹 **Admin Dashboard for Product Management**  
-🔹 **30 Days Front-End Challenge** *(Ongoing)*  
-🔹 **React Native Expo Mobile Game** *(Landscape, Fullscreen Mode)*  
+🔹 **30 Days Front-End Challenge** *(Ongoing)*
 
 ---
 
 ## 🔥 Fun Facts
 - 🎵 I love listening to **J-Pop, Anime OST, and Vocaloid**
 - 🏎️ PC Specs: **Intel i5-3470, 8GB DDR3, GT 740**
-- 🔧 Future upgrade: **GTX 750 Ti planned!**
+- 🔧 Future upgrade: **GTX 1660 Super planned!**
 - 🍜 Favorite phrase: **"やればできる!" (If you try, you can do it!)**
 
 ---
 
 ## 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitsukiRiss&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RitsukiRiss&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitsuKiss&show_icons=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RitsuKiss&theme=tokyonight" width="400">
 </p>
 
 ---
 
 ## 💬 Let's Connect!
 <p align="center">
-  <a href="https://twitter.com/RitsukiRiss"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/RitsukiRiss"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com/Ritsukissch"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Ritsuki_Riss"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://discord.gg/your-server"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
