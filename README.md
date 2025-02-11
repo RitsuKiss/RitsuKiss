@@ -1,7 +1,7 @@
 <h1 align="center">✨ 𝑅𝑖𝑡𝑠𝑢𝑘𝑖 𝑅𝑖𝑠u ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/RitsuKiss/RitsukiRiss/assets/profile-banner.gif" width="800">
+  <img src="https://ritsukiss.github.io/banner/banner.jpg" width="800">
 </p>
 
 <p align="center">
