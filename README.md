@@ -1,43 +1,63 @@
-# 🖥️📸 Hello, World! I'm Ritsuki Riss! 📸🖥️
+<h1 align="center">✨ 𝑅𝑖𝑡𝑠𝑢𝑘𝑖 𝑅𝑖𝑠𝑠 ✨</h1>
 
-![The silent of turu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVBuQjq-owuj5uVtAo9UU4tlgb-5pf5_lHYA&usqp=CAU)
+<p align="center">
+  <img src="https://github.com/RitsukiRiss/RitsukiRiss/assets/profile-banner.gif" width="800">
+</p>
 
-👋 **Risu Assistant: Ready to help!**  
-Welcome to my GitHub! I'm **Ritsuki Riss**, your friendly **virtual developer** who loves **anime** and **cameras**. If you're into tech, felines, and capturing the world's beauty, you've come to the right place!
-
-## 🛠️ About Me:
-- 💻 **Developer**: Crafting innovative projects like login systems, admin dashboards, and more.
-- 🪽 **Nijigasaki Lover**: My wife is Tennoji Rina!.
-- 📸 **Photography Enthusiast**: Always ready to capture the perfect shot, whether it's nature or cats.
-- 🎮 **Gamer**: Playing **Wuthering Waves** and collecting cute characters while my wife cooking.
-- 📟 **Quiet but expressive**, using code and photography to communicate, just like how Risu Assistant does!
-
-## 🖥️ Current Projects:
-- 🛒 **E-commerce System**: Creating admin systems to manage products, stock, and profits.
-- 🔐 **Login System**: Developing secure login methods to keep user data safe.
-- 📊 **Profit Tracker**: Monitoring store profits, taxes, and net income for better business insights.
-
-## 🔧 Tech Stack:
-- **Languages**: PHP, SQL, HTML, CSS, JavaScript
-- **Tools**: phpMyAdmin, XAMPP, VSCode
-- **Database**: MySQL
-
-## 📟 Communication Mode:
-- 🔲 **Risu Assistant Activated!**  
-  "Even if I'm not always talking, Risu Assistant is here to help! Through code, photography, and projects, I express myself just like Risu would—quiet, efficient, and always ready!"
-
-## 🌸 Fun Facts:
-- 🪽 **Anime/vtuber**: When I feel bored, I spend more time watching anime or vtuber.
-- 📸 **Shutterbug**: I love taking photos of the world around me, especially my cats.
-- 🕹️ **Hobbies**: Coding, gaming, and capturing cute cat moments through photography.
-
-## 💬 Connect With Me:
-- 🌐 Instagram: [@ritsu.kiss](https://www.instagram.com/ritsu.kiss)
-- 🖥️ Discord: [RitsuKiss](https://discord.gg/SfZ9h7b9)
-- 📝 Let’s chat about **coding, anime, and cameras**—feel free to reach out anytime!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Ritsuki+Riss!;Front-End+Developer+%26+VTuber;Coding+%E2%9D%A4+Gaming+%E2%9D%A4+Streaming">
+</p>
 
 ---
 
-"**Risu Assistant**: Helping with code, game, and capturing life’s moments!" 💻📸😸
+## 🌟 About Me
+- 🖥️ **Front-End Developer** | Mastering **React Native Expo**
+- 🎨 **Creative VTuber** with **Purple-Themed Aesthetic**
+- 🐿️ My cute mascot: **Squirrel**
+- 🌍 Tokyo-based **casual yet stylish speech**
+- 🔥 Passion for **web animations, UI/UX, and interactive designs**
+- 🎮 Loves **Wuthering Waves** & character **loli/imouto**
+- 💖 **Rina Tennoji is my waifu**
 
 ---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,sqlite,tailwind,figma" />
+</p>
+
+---
+
+## 📌 Projects & Contributions
+🔹 **Login System with PHP & SQL**  
+🔹 **Admin Dashboard for Product Management**  
+🔹 **30 Days Front-End Challenge** *(Ongoing)*  
+🔹 **React Native Expo Mobile Game** *(Landscape, Fullscreen Mode)*  
+
+---
+
+## 🔥 Fun Facts
+- 🎵 I love listening to **J-Pop, Anime OST, and Vocaloid**
+- 🏎️ PC Specs: **Intel i5-3470, 8GB DDR3, GT 740**
+- 🔧 Future upgrade: **GTX 750 Ti planned!**
+- 🍜 Favorite phrase: **"やればできる!" (If you try, you can do it!)**
+
+---
+
+## 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitsukiRiss&show_icons=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RitsukiRiss&theme=tokyonight" width="400">
+</p>
+
+---
+
+## 💬 Let's Connect!
+<p align="center">
+  <a href="https://twitter.com/RitsukiRiss"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/RitsukiRiss"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.gg/your-server"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+🚀 **"Keep coding, keep dreaming, and keep pushing forward!"** 🚀
