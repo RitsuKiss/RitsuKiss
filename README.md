@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=8A2BE2&center=true&width=434&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Ritsuki+Risu!;Front-End+Developer+%26+VTuber;Coding+%E2%9D%A4+Gaming+%E2%9D%A4+Streaming">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=8A2BE2&center=true&width=463&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Ritsuki+Risu!;Front-End+Developer+%26+VTuber;Coding+%E2%9D%A4+Gaming+%E2%9D%A4+Streaming">
 </p>
 <p align="center">
   <img src="https://ritsukiss.github.io/banner/banner.jpg" width="100%">
