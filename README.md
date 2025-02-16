@@ -12,10 +12,10 @@
 ---
 
 ## 🌟 About Me
-- 🖥️ **Front-End Developer** | Mastering **React Native Expo**
-- 🎨 **Creative VTuber** with **Purple-Themed Aesthetic**
-- 🐿️ My cute mascot: **Squirrel**
-- 🌍 Tokyo-based **casual yet stylish speech**
+- 🖥️ **Front-End Developer** | Mastering **Web Development**
+- 🎨 **Creative Squirrel**
+- 🐿️ My Assistant: **Pixirrel**
+- 🇯🇵 **Mastering Japanese language**
 - 🔥 Passion for **web animations, UI/UX, and interactive designs**
 - 🎮 Loves **Wuthering Waves** & character **loli/imouto**
 - 💖 **Rina Tennoji is my waifu**
