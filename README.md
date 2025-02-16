@@ -56,7 +56,7 @@
 <p align="center">
   <a href="https://twitter.com/Ritsukissch"><img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Ritsuki_Riss"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/your-server"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/your-server"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=black"/></a>
 </p>
 
 ---
