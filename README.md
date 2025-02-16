@@ -1,4 +1,4 @@
-<h1 align="center">✨ 𝑅𝑖𝑡𝑠𝑢𝑘𝑖 𝑅𝑖𝑠u ✨</h1>
+<h1 align="center">✨ 𝑅𝑖𝑡𝑠𝑢𝑘𝑖 𝑅𝑖𝑠𝑢 ✨</h1>
 
 
 
